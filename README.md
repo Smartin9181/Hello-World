@@ -1,2 +1,3 @@
 # hello-world
-Just Another Repository
+Sam here! Don't know how to code but like messing with batch files and javascript.
+
